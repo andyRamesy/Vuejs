@@ -1,0 +1,14 @@
+input  : BaseFormInputTextLabel
+$emit : action alefa an am parent 
+components - myaccount - form - provider - electricity - installation - administrativeAspects - form - cadastre
+                        -manage - 
+
+
+git add .
+git commit -am "label"
+git pull origin develop
+git checkout develop
+git merge mybranch
+git push origin develop
+
+git checkout 
